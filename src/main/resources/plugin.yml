@@ -1,0 +1,5 @@
+name: AetherNotificationSound
+version: '1.0-SNAPSHOT'
+main: org.bc.aetherNotificationSound.AetherNotificationSound
+api-version: '1.21'
+authors: [ BC ]
